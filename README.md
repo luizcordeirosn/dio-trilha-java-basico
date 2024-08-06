@@ -4,7 +4,7 @@ www.dio.me
 #### Autores
 - [Luiz Cordeiro](https://github.com/luizcordeirosn)
 
-## Sintaxe - Desafio
+## Sintaxe - Desafio I
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
