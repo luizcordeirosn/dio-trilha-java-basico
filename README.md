@@ -78,7 +78,7 @@ public class Contador {
 }
 ```
 
-## POO - Desafio
+## POO - Desafio III
 
 ### Modelagem e Diagramação de um Componente iPhone
 
