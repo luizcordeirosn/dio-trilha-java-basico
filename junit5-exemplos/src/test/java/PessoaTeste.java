@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import com.junit.entities.Pessoa;
 
-public class PessoaTest {
+public class PessoaTeste {
     
     @Test
     void deveCalcularIdadeCorretamente() {
